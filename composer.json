@@ -1,5 +1,6 @@
 {
     "name": "autoframe/mysql-mysqli",
+	"version": "1.0.0",
     "description": "Redefine the legacy depracaded mySQL functions using MySQLi",
     "type": "library",
     "license": "MIT",
@@ -11,7 +12,9 @@
     "authors": [
         {
             "name": "Nistor Alexandru Marius",
-            "email": "34517931+autoframe@users.noreply.github.com"
+            "email": "34517931+autoframe@users.noreply.github.com",
+            "role": "Lead Developer"
+
         }
     ],
     "require": {
