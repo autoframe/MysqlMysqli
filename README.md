@@ -9,6 +9,10 @@ Build time: 	18.05.2017
 ## SCOPE:
 Redefine the legacy depracaded mySQL functions using mysqli
 
+##USE:
+
+use Autoframe\MysqlMysqli\CompatibilityMySQL;
+
 ## COMPATIBILITY: 
 
 &gt;= PHP7
