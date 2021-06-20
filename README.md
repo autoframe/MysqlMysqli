@@ -9,7 +9,7 @@ Build time: 	2021-06-20
 ## SCOPE:
 Redefine the legacy depracaded mySQL functions using mysqli
 
-##USE:
+## USE:
 
 use Autoframe\MysqlMysqli\CompatibilityMySQL;
 
