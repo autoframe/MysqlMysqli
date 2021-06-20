@@ -3,8 +3,8 @@
 
 https://github.com/autoframe
 
-Version :		1.0.0
-Build time: 	18.05.2017
+Version :		1.0.1
+Build time: 	2021-06-20
 
 ## SCOPE:
 Redefine the legacy depracaded mySQL functions using mysqli
