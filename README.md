@@ -3,7 +3,7 @@
 
 https://github.com/autoframe
 
-Version :		1.0.1
+Version :		1.0.2
 Build time: 	2021-06-20
 
 ## SCOPE:
