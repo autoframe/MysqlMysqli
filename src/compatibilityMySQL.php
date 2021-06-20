@@ -247,7 +247,7 @@ if(!function_exists('mysql_connect') && function_exists('mysqli_connect')){
 }
 
 
-class compatibilityMySQL{
+class CompatibilityMySQL{
 	function __construct()
 	{
 		return (!function_exists('mysql_connect'));
