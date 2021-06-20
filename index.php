@@ -1,8 +1,9 @@
 <?php
 require_once ('vendor/autoload.php');
 
+use Autoframe\MysqlMysqli\CompatibilityMySQL;
 
-if(new \Autoframe\MysqlMysqli\compatibilityMySQL()){
+if(new CompatibilityMySQL()){
 	echo 'function exists : mysql_connect()';
 	return true;
 }
