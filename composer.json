@@ -1,6 +1,6 @@
 {
     "name": "autoframe/mysql-mysqli",
-	"version": "1.0.0",
+	"version": "1.0.1",
     "description": "Redefine the legacy depracaded mySQL functions using MySQLi",
     "type": "library",
     "license": "MIT",
