@@ -3,7 +3,7 @@ namespace Autoframe\MysqlMysqli;
 
 /* 
 mySQL legacy library in PHP7 by https://github.com/autoframe
-Version :		1.0.0
+Version :		1.0.1
 Build time: 	18.05.2017
 
 SCOPE:
